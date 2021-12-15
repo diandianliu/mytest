@@ -1,0 +1,5 @@
+// the configured options and settings for demo
+#define demo_VERSION_MAJOR @test_VERSION_MAJOR@
+#define demo_VERSION_MINOR @test_VERSION_MINOR@
+#define demo_VERSION_STR "@test_VERSION_STR@.h"
+//#include  @demo11_VERSION_STR@
